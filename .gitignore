@@ -2,4 +2,4 @@
 *
 # except foo
 !.gitignore
-!Wayfinding/*
+!Wayfinding/Chennai/*
