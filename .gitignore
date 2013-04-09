@@ -1,0 +1,5 @@
+# ignore these
+*
+# except foo
+!.gitignore
+!Wayfinding/*
